@@ -1,0 +1,5 @@
+[default]
+region = us-east-1
+output = json
+sso_account_id = 908027381379
+sso_role_name = eotss-ai-team-admins
